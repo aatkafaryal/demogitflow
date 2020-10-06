@@ -1,3 +1,7 @@
 as my heart say
 this change i made in dev-faryal branch loacally.
+<<<<<<< HEAD
 i want to revert the changes
+=======
+make restrictions on main branch
+>>>>>>> origin/main
